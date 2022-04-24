@@ -1,4 +1,6 @@
-# title(){return this.options.title||this.options.name}
+# Travel Journal
+
+This project is part of the ReactJS course on Scrimba.
 
 Quick start:
 
